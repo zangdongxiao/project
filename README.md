@@ -5,7 +5,7 @@ Instructions and template for final projects.
 
 | Name | Date |
 |:-------|:---------------|
-|Dongxiao | 2019/03/22|
+|Dongxiao Zang| 2019/03/22|
 
 -----
 
