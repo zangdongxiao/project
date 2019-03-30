@@ -12,7 +12,7 @@ Instructions and template for final projects.
 ### Resources
 Your repository should include the following:
 
-- Python script for your analysis
+- Python script mypython.py
 - Results figure/saved file
 - Dockerfile for your experiment
 - runtime-instructions in a file named RUNME.md
@@ -27,29 +27,30 @@ Based on the dataset can we preict the housing price of Boston
 
 4 sentence longer explanation about your research question. Include:
 
-- opportunity (what data do we have)
-- challenge (what is the "problem" we could solve with this dataset)
-- action (how will we try to solve this problem/answer this question)
-- resolution (what did we end up producing)
+- opportunity we have data collected from boston housing price history.
+- challenge the data we have can help to preict the housing price.  
+- action find two the most related features that we can use to predit the housoing price.
+- resolution (using heatmap to find out 2 features and using LinearRegression modle to predit the price)
 
 ### Introduction
+https://archive.ics.uci.edu/ml/machine-learning-databases/housing/
+This dataset was taken from the StatLib library which is maintained at Carnegie Mellon University.
 
-Brief (no more than 1-2 paragraph) description about the dataset. Can copy from elsewhere, but cite the source (i.e. at least link, and explicitly say if it's copied from elsewhere).
+The Boston house-price data of Harrison, D. and Rubinfeld, D.L. ‘Hedonic prices and the demand for clean air’, J. Environ. Economics & Management, vol.5, 81-102, 1978. Used in Belsley, Kuh & Welsch, ‘Regression diagnostics …’, Wiley, 1980. N.B. Various transformations are used in the table on pages 244-261 of the latter.
+
+The Boston house-price data has been used in many machine learning papers that address regression problems.
+https://scikit-learn.org/stable/datasets/index.html
 
 ### Methods
 
-Brief (no more than 1-2 paragraph) description about how you decided to approach solving it. Include:
-
-- pseudocode for this method (either created by you or cited from somewhere else)
-- why you chose this method
+using heatmap to find out which are the most related features that affect the housing price.
+base on these two features find out the linear relation between the features and the price.
 
 ### Results
 
 Brief (2 paragraph) description about your results. Include:
+![alt text](https://github.com/zangdongxiao/project/blob/master/LSTAT.png)
 
-- At least 1 figure
-- At least 1 "value" that summarizes either your data or the "performance" of your method
-- A short explanation of both of the above
 
 ### Discussion
 Brief (no more than 1-2 paragraph) description about what you did. Include:
