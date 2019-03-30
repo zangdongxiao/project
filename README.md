@@ -50,6 +50,9 @@ base on these two features find out the linear relation between the features and
 
 Brief (2 paragraph) description about your results. Include:
 ![alt text](https://github.com/zangdongxiao/project/blob/master/LSTAT.png)
+![alt text](https://github.com/zangdongxiao/project/blob/master/RM.png)
+![alt text](https://github.com/zangdongxiao/project/blob/master/heatmap.png)
+![alt text](https://github.com/zangdongxiao/project/blob/master/predict.png)
 
 
 ### Discussion
