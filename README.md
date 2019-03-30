@@ -55,13 +55,9 @@ Brief (2 paragraph) description about your results. Include:
 ![alt text](https://github.com/zangdongxiao/project/blob/master/predict.png)
 
 
-### Discussion
-Brief (no more than 1-2 paragraph) description about what you did. Include:
 
-- interpretation of whether your method "solved" the problem
-- suggested next step that could make it better.
 
 ### References
-All of the links
+https://towardsdatascience.com/linear-regression-on-boston-housing-dataset-f409b7e4a155
 
 -------
