@@ -21,7 +21,7 @@ Your repository should include the following:
 
 ## Research Question
 
-1 sentence description of your research question.
+Based on the dataset can we preict the housing price of Boston
 
 ### Abstract
 
